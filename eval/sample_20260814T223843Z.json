@@ -1,0 +1,1105 @@
+{
+  "log": [
+    {
+      "keyword": "electrical",
+      "exact_match": false,
+      "page_size": 100,
+      "raw_entity_count": 100,
+      "electrical_permit_count": 100,
+      "error": null
+    },
+    {
+      "keyword": "COTTON PATCH",
+      "exact_match": true,
+      "page_size": 50,
+      "raw_entity_count": 45,
+      "electrical_permit_count": 0,
+      "error": null
+    },
+    {
+      "keyword": "LEANDER DR",
+      "exact_match": true,
+      "page_size": 50,
+      "raw_entity_count": 50,
+      "electrical_permit_count": 0,
+      "error": null
+    },
+    {
+      "keyword": "CRYSTAL FALLS",
+      "exact_match": true,
+      "page_size": 50,
+      "raw_entity_count": 50,
+      "electrical_permit_count": 0,
+      "error": null
+    },
+    {
+      "keyword": "BAGDAD RD",
+      "exact_match": true,
+      "page_size": 50,
+      "raw_entity_count": 47,
+      "electrical_permit_count": 0,
+      "error": null
+    },
+    {
+      "keyword": "HERO WAY",
+      "exact_match": true,
+      "page_size": 50,
+      "raw_entity_count": 50,
+      "electrical_permit_count": 0,
+      "error": null
+    },
+    {
+      "keyword": "183A TOLL",
+      "exact_match": true,
+      "page_size": 50,
+      "raw_entity_count": 45,
+      "electrical_permit_count": 0,
+      "error": null
+    }
+  ],
+  "candidate_pool_size": 100,
+  "candidates": [
+    {
+      "case_number": "2016-8666",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "7782 183A Toll Rd. Leander TX 78641",
+      "issue_date": "2016-10-13T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-26-00767",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Issued",
+      "address": "2416 CURVARE TRL LEANDER TX 78641",
+      "issue_date": "2026-04-24T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-26-00770",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Issued",
+      "address": "1706 NORMANDY VW LEANDER TX 78641",
+      "issue_date": "2026-04-27T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-26-00806",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Issued",
+      "address": "3325 VALLATA LN LEANDER TX 78641",
+      "issue_date": "2026-06-22T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-24-00375",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "1303 LEANDER DR LEANDER TX 78641",
+      "issue_date": "2024-05-29T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-23-00185",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "1905 S WEST DR LEANDER TX 78641",
+      "issue_date": "2023-10-10T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2016-7782",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "11880 Old 2243 W 104 Leander TX 78641",
+      "issue_date": "2016-08-02T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2014-1160",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "1111 HIGH CHAPARRAL DR LEANDER TX 78641",
+      "issue_date": "2014-09-05T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2015-3128",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "1100 HALSEY DR LEANDER TX 78641",
+      "issue_date": "2015-05-04T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2018-14676",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "912 LANTANA DR LEANDER TX 78641",
+      "issue_date": "2018-02-05T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2018-14464",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "805 SCHEFER ST LEANDER TX 78641",
+      "issue_date": "2018-01-19T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2018-15795",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "1807 S US 183 LEANDER TX 78641",
+      "issue_date": "2018-04-24T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-23-00152",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Issued",
+      "address": "10303 E CRYSTAL FALLS PKWY LEANDER TX 78641",
+      "issue_date": "2023-08-11T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2022-40299",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "6 E WINDEMERE LEANDER TX 78641",
+      "issue_date": "2022-03-24T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2021-33193",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "2407 GRANITE CREEK DR LEANDER TX 78641",
+      "issue_date": "2021-04-08T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2022-44383",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "1402 WILLOW CREEK DR LEANDER TX 78641",
+      "issue_date": "2022-10-19T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2021-34332",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "403 TYRONE DR LEANDER TX 78641",
+      "issue_date": null,
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-30036",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "2500 HIGHLAND TRL LEANDER TX 78641",
+      "issue_date": "2020-11-04T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2015-4010",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "303 W BROADE ST LEANDER TX 78641",
+      "issue_date": "2015-08-07T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-25-00685",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Issued",
+      "address": "19405 RONALD W REAGAN BLVD LEANDER TX 78641",
+      "issue_date": "2025-11-26T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-24-00423",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Void",
+      "address": "1805 S US 183 LEANDER TX 78641",
+      "issue_date": "2024-09-05T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-24-00426",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Void",
+      "address": "1703 IRELAND DR LEANDER TX 78641",
+      "issue_date": null,
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-24-00478",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Void",
+      "address": "1209 BRENHAM LN LEANDER TX 78641",
+      "issue_date": null,
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2018-14609",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "2405 MILAN MEADOWS DR LEANDER TX 78641",
+      "issue_date": "2018-01-31T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2017-11281",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "1800 HORIZON PARK BLVD LEANDER TX 78641",
+      "issue_date": "2017-05-10T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2017-11998",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "934 McKavitt Dr leander TX 78641",
+      "issue_date": "2017-06-30T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2014-1199",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "2409 CHIMNEY ROCK RD LEANDER TX 78641",
+      "issue_date": "2014-09-18T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2015-4421",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "1309 Leander Dr Bldg. 600 Leander TX 78613",
+      "issue_date": "2015-09-16T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2017-13030",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "1059 MYRAN BND LEANDER TX 78641",
+      "issue_date": "2017-09-13T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2017-12096",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Void",
+      "address": "2520 GRAPEVINE CANYON TRL LEANDER TX 78641",
+      "issue_date": null,
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2019-20318",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "807 GLASS DR LEANDER TX 78641",
+      "issue_date": "2019-04-02T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2018-18426",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "2677 GABRIELS HORN RD LEANDER TX 78641",
+      "issue_date": "2018-11-13T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2017-12513",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "1243 LOW BRANCH LN LEANDER TX 78641",
+      "issue_date": "2017-08-14T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2017-13478",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "149 S BAGDAD RD LEANDER TX 78641",
+      "issue_date": "2017-10-17T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-24577",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "404 COUNTY GLEN LEANDER TX 78641",
+      "issue_date": "2020-01-10T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2017-12514",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "623 American Trail Leander TX 78641",
+      "issue_date": "2017-08-14T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-2022-00004",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "707 ELM CREST LEANDER TX 78641",
+      "issue_date": "2022-11-17T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-23-00178",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Issued",
+      "address": "4624 MODENA BAY BND LEANDER TX 78641",
+      "issue_date": "2023-10-30T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2019-22771",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "2818 WIND RIVER TRL LEANDER TX 78641",
+      "issue_date": "2019-08-30T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2016-7542",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "11892 Old 2243 West Suite B Leander TX 78641",
+      "issue_date": "2016-07-13T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-30313",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "181 SOUTH BROOK DR LEANDER TX 78641",
+      "issue_date": "2020-11-17T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2015-4422",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "1309 Leander Dr. Bldg 900 Leander TX 78641",
+      "issue_date": "2015-09-16T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-30304",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "100 DEERCREEK LN LEANDER TX 78641",
+      "issue_date": "2020-11-20T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-24486",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "315 ASHBURY DR LEANDER TX 78641",
+      "issue_date": "2020-01-06T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2017-11753",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "1099 Collabrative Way Leander TX 78641",
+      "issue_date": "2017-06-13T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2019-22712",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "732 NAUMANN DR LEANDER TX 78641",
+      "issue_date": "2019-08-30T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2017-12007",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "206 APACHE TRL LEANDER TX 78641",
+      "issue_date": "2017-06-29T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2017-11804",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "3113 WEDGESCALE PASS LEANDER TX 78641",
+      "issue_date": "2017-06-16T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-24-00413",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "11141 183A TOLL FR RD LEANDER TX 78641",
+      "issue_date": "2024-08-09T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2019-21009",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "1907 STIRLING ST LEANDER TX 78641",
+      "issue_date": "2019-05-13T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2016-9360",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "3501 N Lakeline Blvd Leander TX 78641",
+      "issue_date": "2016-12-13T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2015-2446",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "501 TYRONE DR LEANDER TX 78641",
+      "issue_date": "2015-02-17T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2015-3247",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "9210 RM 2243 LEANDER TX 78641",
+      "issue_date": "2015-05-15T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2017-11752",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "1007 LEANDER DR LEANDER TX 78641",
+      "issue_date": "2017-06-12T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2017-11439",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "822 LOGAN DEL WAY LEANDER TX 78641",
+      "issue_date": "2017-05-19T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-28101",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "1726 STRINGER PASS LEANDER TX 78641",
+      "issue_date": "2020-08-10T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2015-4565",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "1489 W BROADE ST LEANDER TX 78641",
+      "issue_date": "2015-09-29T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2018-17022",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "2644 Painted Sky Bend Leander TX 78641",
+      "issue_date": "2018-07-18T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-27833",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "3419 MONGOLIAN DR LEANDER TX 78641",
+      "issue_date": "2020-07-28T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-23-00160",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Issued",
+      "address": "817 BRAVE FACE ST LEANDER TX 78641",
+      "issue_date": "2023-08-24T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2017-12846",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "1515 LAUREL GLEN BLVD LEANDER TX 78641",
+      "issue_date": "2017-12-11T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-28818",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "866 N BAGDAD RD LEANDER TX 78641",
+      "issue_date": "2020-09-25T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2016-9359",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "3421 Lakeline Blvd. Leander TX 78641",
+      "issue_date": "2016-12-13T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-23-00113",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Issued",
+      "address": "1503 EAGLES WAY LEANDER TX 78641",
+      "issue_date": "2023-06-07T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-2022-00014",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "1063 S BAGDAD RD LEANDER TX 78641",
+      "issue_date": "2023-01-04T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2019-21014",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "823 MALLOW RD LEANDER TX 78641",
+      "issue_date": "2019-05-13T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-28484",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "1691 PLEASANT HILL RD LEANDER TX 78641",
+      "issue_date": "2020-08-27T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-26223",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "10921 E CRYSTAL FALLS PKWY Unit: D STE 100 LEANDER TX 78641",
+      "issue_date": "2020-04-29T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-26233",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "10921 E CRYSTAL FALLS PKWY Unit: H STE 100 LEANDER TX 78641",
+      "issue_date": "2020-04-29T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-26232",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "10921 E CRYSTAL FALLS PKWY Unit: D STE 105 LEANDER TX 78641",
+      "issue_date": "2020-04-29T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-26230",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "10921 E CRYSTAL FALLS PKWY Unit: D STE 104 LEANDER TX 78641",
+      "issue_date": "2020-04-29T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2015-2475",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "607B Municipal Dr. Leander TX 78641",
+      "issue_date": "2015-02-18T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-26217",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "10921 E CRYSTAL FALLS PKWY Unit: G STE 101 LEANDER TX 78641",
+      "issue_date": "2020-04-29T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-26216",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "10921 E CRYSTAL FALLS PKWY Unit: G STE 100 LEANDER TX 78641",
+      "issue_date": "2020-04-29T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-26220",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "10921 E CRYSTAL FALLS PKWY Unit: G STE 103 LEANDER TX 78641",
+      "issue_date": "2020-04-29T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2021-32299",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "1701 DUBLIN DR LEANDER TX 78641",
+      "issue_date": "2021-03-02T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-26236",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "10921 E CRYSTAL FALLS PKWY Unit: H STE 103 LEANDER TX 78641",
+      "issue_date": "2020-04-29T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-26225",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "10921 E CRYSTAL FALLS PKWY Unit: D STE 102 LEANDER TX 78641",
+      "issue_date": "2020-04-29T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-26219",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "10921 E CRYSTAL FALLS PKWY Unit: G STE 102 LEANDER TX 78641",
+      "issue_date": "2020-04-29T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-26222",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "10921 E CRYSTAL FALLS PKWY Unit: G STE 105 LEANDER TX 78641",
+      "issue_date": "2020-04-29T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-26235",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "10921 E CRYSTAL FALLS PKWY Unit: H STE 102 LEANDER TX 78641",
+      "issue_date": "2020-04-29T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-26341",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "11391 HERO WAY WEST LEANDER TX 78641",
+      "issue_date": "2020-05-20T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2016-9177",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "2607 U.S. 183 Leander TX 78641",
+      "issue_date": "2016-11-28T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-26234",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "10921 E CRYSTAL FALLS PKWY Unit: H STE 101 LEANDER TX 78641",
+      "issue_date": "2020-04-29T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-26227",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "10921 E CRYSTAL FALLS PKWY Unit: D STE 103 LEANDER TX 78641",
+      "issue_date": "2020-04-29T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-26224",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "10921 E CRYSTAL FALLS PKWY Unit: D STE 101 LEANDER TX 78641",
+      "issue_date": "2020-04-29T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-26221",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "10921 E CRYSTAL FALLS PKWY Unit: G STE 104 LEANDER TX 78641",
+      "issue_date": "2020-04-29T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2019-24160",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "700 PALAMOS DR LEANDER TX 78641",
+      "issue_date": "2019-12-09T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2019-22572",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Cancelled/Withdrawn",
+      "address": "2818 WIND RIVER TRL LEANDER TX 78641",
+      "issue_date": null,
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2016-9186",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "1820 Crystal Falls Pkwy Leander TX 78641",
+      "issue_date": "2016-11-29T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2016-7015",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "1704 LONE OAK DR LEANDER TX 78641",
+      "issue_date": "2016-05-27T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-26-00731",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Issued",
+      "address": "306 HAZELWOOD ST Unit: Ste 3 LEANDER TX 78641",
+      "issue_date": "2026-02-11T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-26-00743",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Issued",
+      "address": "3029 VISO WAY LEANDER TX 78641",
+      "issue_date": "2026-02-26T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-2022-00012",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "1601 JOLIE ROSE BND LEANDER TX 78641",
+      "issue_date": "2022-12-08T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-26624",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "805 NEWCASTLE LN LEANDER TX 78641",
+      "issue_date": "2020-05-22T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-24-00458",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Issued",
+      "address": "3716 SALENTO CV LEANDER TX 78641",
+      "issue_date": "2024-11-06T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-24-00382",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "979 N BAGDAD RD LEANDER TX 78641",
+      "issue_date": "2024-06-12T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-23-00204",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "149 S BAGDAD RD Unit: G103 LEANDER TX 78641",
+      "issue_date": "2023-12-11T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-24-00297",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Issued",
+      "address": "1813 LONDONDERRY DR LEANDER TX 78641",
+      "issue_date": "2024-02-06T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-24-00282",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "1002 OAKWOOD DR LEANDER TX 78641",
+      "issue_date": "2024-01-12T00:00:00",
+      "found_via_query": "electrical"
+    }
+  ],
+  "selected_sample": [
+    {
+      "case_number": "ELEC-2022-00012",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "1601 JOLIE ROSE BND LEANDER TX 78641",
+      "issue_date": "2022-12-08T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-24486",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "315 ASHBURY DR LEANDER TX 78641",
+      "issue_date": "2020-01-06T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-26225",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "10921 E CRYSTAL FALLS PKWY Unit: D STE 102 LEANDER TX 78641",
+      "issue_date": "2020-04-29T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-28484",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "1691 PLEASANT HILL RD LEANDER TX 78641",
+      "issue_date": "2020-08-27T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-26624",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "805 NEWCASTLE LN LEANDER TX 78641",
+      "issue_date": "2020-05-22T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-24-00375",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "1303 LEANDER DR LEANDER TX 78641",
+      "issue_date": "2024-05-29T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2017-12007",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "206 APACHE TRL LEANDER TX 78641",
+      "issue_date": "2017-06-29T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-2022-00014",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "1063 S BAGDAD RD LEANDER TX 78641",
+      "issue_date": "2023-01-04T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2016-9177",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "2607 U.S. 183 Leander TX 78641",
+      "issue_date": "2016-11-28T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-26216",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "10921 E CRYSTAL FALLS PKWY Unit: G STE 100 LEANDER TX 78641",
+      "issue_date": "2020-04-29T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2014-1160",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "1111 HIGH CHAPARRAL DR LEANDER TX 78641",
+      "issue_date": "2014-09-05T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-26220",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "10921 E CRYSTAL FALLS PKWY Unit: G STE 103 LEANDER TX 78641",
+      "issue_date": "2020-04-29T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-28101",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "1726 STRINGER PASS LEANDER TX 78641",
+      "issue_date": "2020-08-10T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-24-00382",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "979 N BAGDAD RD LEANDER TX 78641",
+      "issue_date": "2024-06-12T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2022-44383",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "1402 WILLOW CREEK DR LEANDER TX 78641",
+      "issue_date": "2022-10-19T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2022-40299",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "6 E WINDEMERE LEANDER TX 78641",
+      "issue_date": "2022-03-24T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-25-00685",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Issued",
+      "address": "19405 RONALD W REAGAN BLVD LEANDER TX 78641",
+      "issue_date": "2025-11-26T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2017-13478",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "149 S BAGDAD RD LEANDER TX 78641",
+      "issue_date": "2017-10-17T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-23-00185",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "1905 S WEST DR LEANDER TX 78641",
+      "issue_date": "2023-10-10T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2017-11998",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "934 McKavitt Dr leander TX 78641",
+      "issue_date": "2017-06-30T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-30036",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "2500 HIGHLAND TRL LEANDER TX 78641",
+      "issue_date": "2020-11-04T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-26-00770",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Issued",
+      "address": "1706 NORMANDY VW LEANDER TX 78641",
+      "issue_date": "2026-04-27T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2017-12096",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Void",
+      "address": "2520 GRAPEVINE CANYON TRL LEANDER TX 78641",
+      "issue_date": null,
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-24-00478",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Void",
+      "address": "1209 BRENHAM LN LEANDER TX 78641",
+      "issue_date": null,
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "ELEC-26-00743",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Issued",
+      "address": "3029 VISO WAY LEANDER TX 78641",
+      "issue_date": "2026-02-26T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2015-4421",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "1309 Leander Dr Bldg. 600 Leander TX 78613",
+      "issue_date": "2015-09-16T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2020-27833",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Complete",
+      "address": "3419 MONGOLIAN DR LEANDER TX 78641",
+      "issue_date": "2020-07-28T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2019-21009",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "1907 STIRLING ST LEANDER TX 78641",
+      "issue_date": "2019-05-13T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2019-21014",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "823 MALLOW RD LEANDER TX 78641",
+      "issue_date": "2019-05-13T00:00:00",
+      "found_via_query": "electrical"
+    },
+    {
+      "case_number": "2016-7782",
+      "case_type": "Electrical (Stand Alone)",
+      "case_status": "Expired",
+      "address": "11880 Old 2243 W 104 Leander TX 78641",
+      "issue_date": "2016-08-02T00:00:00",
+      "found_via_query": "electrical"
+    }
+  ]
+}
