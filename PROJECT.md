@@ -72,6 +72,12 @@ tenant: leandertx-energovpub.tylerhost.net). Read-only, v1 scope.
 ## Repo mechanics
 - Repo: ~/dev/permit-status-agent, git initialized, venv active,
   .env gitignored and confirmed via git check-ignore.
+- **Public GitHub: https://github.com/antwandon-sketch/permit-status-agent**
+  (pushed 2026-08-14). `.claude/` (session/tooling metadata, not project
+  source) added to .gitignore before the initial commit — not secrets,
+  just not appropriate for a public repo. Verified post-push via the
+  GitHub API tree listing: exactly the 19 intended files present, no
+  .env, no venv/, no .claude/, nothing accidental.
 - PORT=5005 (sequential convention: 5001-5004 used by projects 1-4).
 - Dependencies: playwright, pydantic, mcp.
 - venv Python version: 3.12 (rebuilt from scratch 2026-08-14 — the
